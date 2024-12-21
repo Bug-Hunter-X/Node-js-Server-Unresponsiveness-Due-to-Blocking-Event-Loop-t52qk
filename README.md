@@ -1,0 +1,1 @@
+This repository demonstrates a common Node.js issue: server unresponsiveness caused by a long-running task that blocks the event loop.  The `server.js` file showcases the problem, while `server-solution.js` provides a solution using asynchronous operations to prevent blocking.
